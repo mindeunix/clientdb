@@ -1,9 +1,9 @@
-This module for Awesome Windows MAnager provides a simple way to manage windows rules.
+This module for Awesome WM provides a simple way to manage windows rules.
 
 ### Dependencies
 
-* awesome v3.5.0 (works with latest git version)
-* LuaDBI - A database interface library for Lua
+* [awesome](http://awesome.naquadah.org/) v3.5.0 (works with latest git version)
+* [LuaDBI](https://code.google.com/p/luadbi/) - A database interface library for Lua
 
 ### Installation
 
