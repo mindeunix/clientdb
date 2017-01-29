@@ -1,8 +1,16 @@
+## DEPRECATED AND NO LONGER MAINTAINED
+
+you can use [Tyrannical](https://github.com/Elv13/tyrannical) as an alternative.
+
+
+
+### ClientDB
+
 This module for Awesome WM provides a simple way to manage windows rules.
 
 ### Dependencies
 
-* [awesome](http://awesome.naquadah.org/) v3.5.0 (works with latest git version)
+* [awesome](http://awesome.naquadah.org/) v3.5.0
 * [LuaDBI](https://code.google.com/p/luadbi/) - A database interface library for Lua
 
 ### Installation
@@ -50,9 +58,3 @@ If you still need to modify these rules you can use [SQLiteStudio](http://sqlite
 | ------ | ------------------------------------- | ----------------- |
 | save   | Save the client.                      | The client object |
 | load   | Load windows rules from the database. | --                |
-
-
-### TODO
-
-* Gtk dialogs ?
-
